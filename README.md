@@ -33,10 +33,8 @@ ethereum/client-go:stable \
 --unlock <DIRECCIÓN-WALLET-PRINCIPAL> --password /password --mine --miner.etherbase <DIRECCIÓN-WALLET-PRINCIPAL> --allow-insecure-unlock
 ```
 5. Importar cuentas creadas en Metamask desde el fichero UTC generado con el primer comando si fuese necesario.
-6. Configurar Blockchain generada en Metamask con los siguientes valores:
-```
-Nombre de la RED: CUALQUIERA
-URL: http://localhost:8545
-IDENTIFICADOR CADENA: 1234567
-Simbolo de la moneda: CUALQUIERA
-```
+6. Configurar Red (Blockchain) generada en Metamask con los siguientes valores:
+    * NOMBRE DE LA RED: **CUALQUIERA**
+    * URL: **http://localhost:8545**
+    * IDENTIFICADOR CADENA: **1234567**
+    * SIMBOLO DE LA MONEDA: **CUALQUIERA**
