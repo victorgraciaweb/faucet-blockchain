@@ -34,7 +34,7 @@ ethereum/client-go:stable \
 ```
 5. Importar cuentas creadas en Metamask desde el fichero UTC generado con el primer comando si fuese necesario.
 6. Configurar Red (Blockchain) generada en Metamask con los siguientes valores:
-    * NOMBRE DE LA RED: **CUALQUIERA**
-    * URL: **http://localhost:8545**
-    * IDENTIFICADOR CADENA: **1234567**
-    * SIMBOLO DE LA MONEDA: **CUALQUIERA**
+    * **NOMBRE DE LA RED:** CUALQUIERA
+    * **URL:** http://localhost:8545
+    * **IDENTIFICADOR CADENA:** 1234567
+    * **SIMBOLO DE LA MONEDA:** CUALQUIERA
